@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello, am Josh :)
+
+I like to do things. Nothing much to see here tho.
 
 <!--
 **JoshaFA/JoshaFA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
